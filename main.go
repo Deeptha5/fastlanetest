@@ -21,7 +21,7 @@ import (
 
 const (
 	BALANCE_THRESHOLD = 0.001
-	GAS_LIMIT         = 200000
+	GAS_LIMIT         = 56000
 )
 
 func main() {
